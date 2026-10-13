@@ -10,9 +10,8 @@ The dashboard helps users understand sales trends, compare business performance,
 
 ## 🖼️ Dashboard Preview
 
-![Adidas Sales Dashboard](dashboard-screenshot.png)
+Adidas Sales Dashboard https://github.com/Madhav1506/Adidas-Sales-Dashboard-Tableau/blob/main/Dashboard.png
 
-*Note: Replace `dashboard-screenshot.png` with the actual name of your uploaded dashboard screenshot.*
 
 ## 🎯 Key Features
 
@@ -33,8 +32,8 @@ The dashboard helps users understand sales trends, compare business performance,
 
 ## 📁 Repository Contents
 
-- `Adidas Sales Dashboard.twbx` – Tableau packaged workbook containing the dashboard.
-- `dashboard-screenshot.png` – Dashboard preview image.
+- `Adidas-Sales-Dashboard.twbx` – Tableau packaged workbook containing the dashboard.
+- `Dashboard.png` – Dashboard preview image.
 - `README.md` – Project documentation.
 
 ## 💡 Project Objectives
